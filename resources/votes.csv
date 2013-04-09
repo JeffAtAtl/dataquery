@@ -1,0 +1,52 @@
+State,Post Office Abbreviation,5-DIGIT FIPS,2-DIGIT FIPS,1964,1968,1972,1976,1980,1984,1988,1992,1996,2000,2004
+  Alabama,AL,1000,1,R-10,I-10,R-9,D-9,R-9,R-9,R-9,R-9,R-9,R-9,R-9
+  Alaska,AK,2000,2,D-3,R-3,R-3,R-3,R-3,R-3,R-3,R-3,R-3,R-3,R-3
+  Arizona,AZ,4000,4,R-5,R-5,R-6,R-6,R-6,R-7,R-7,R-8,D-8,R-8,R-10
+  Arkansas,AR,5000,5,D-6,I-06,R-6,D-6,R-6,R-6,R-6,D-6,D-6,R-6,R-6
+  California,CA,6000,6,D-40,R-40,R-45,R-45,R-45,R-47,R-47,D-54,D-54,D-54,D-55
+  Colorado,CO,8000,8,D-6,R-6,R-7,R-7,R-7,R-8,R-8,D-8,R-8,R-8,R-9
+  Connecticut,CT,9000,9,D-8,D-8,R-8,R-8,R-8,R-8,R-8,D-8,D-8,D-8,D-7
+  Delaware,DE,10000,10,D-3,R-3,R-3,D-3,R-3,R-3,R-3,D-3,D-3,D-3,D-3
+  District of Columbia ,DC,11000,11,D-3,D-3,D-3,D-3,D-3,D-3,D-3,D-3,D-3,\5 D-2,D-3
+  Florida,FL,12000,12,D-14,R-14,R-17,D-17,R-17,R-21,R-21,R-25,D-25,R-25,R-27
+  Georgia ,GA,13000,13,R-12,I-12,R-12,D-12,D-12,R-12,R-12,D-13,R-13,R-13,R-15
+  Hawaii,HI,15000,15,D-4,D-4,R-4,D-4,D-4,R-4,D-4,D-4,D-4,D-4,D-4
+  Idaho,ID,16000,16,D-4,R-4,R-4,R-4,R-4,R-4,R-4,R-4,R-4,R-4,R-4
+  Illinois,IL,17000,17,D-26,R-26,R-26,R-26,R-26,R-24,R-24,D-22,D-22,D-22,D-21
+  Indiana,IN,18000,18,D-13,R-13,R-13,R-13,R-13,R-12,R-12,R-12,R-12,R-12,R-11
+  Iowa,IA,19000,19,D-9,R-9,R-8,R-8,R-8,R-8,D-8,D-7,D-7,D-7,R-7
+  Kansas,KS,20000,20,D-7,R-7,R-7,R-7,R-7,R-7,R-7,R-6,R-6,R-6,R-6
+  Kentucky,KY,21000,21,D-9,R-9,R-9,D-9,R-9,R-9,R-9,D-8,D-8,R-8,R-8
+  Louisiana,LA,22000,22,R-10,I-10,R-10,D-10,R-10,R-10,R-10,D-9,D-9,R-9,R-9
+  Maine ,ME,23000,23,D-4,D-4,R-4,R-4,R-4,R-4,R-4,D-4,D-4,D-4,D-4
+  Maryland,MD,24000,24,D-10,D-10,R-10,D-10,D-10,R-10,R-10,D-10,D-10,D-10,D-10
+  Massachusetts,MA,25000,25,D-14,D-14,D-14,D-14,R-14,R-13,D-13,D-12,D-12,D-12,D-12
+  Michigan,MI,26000,26,D-21,D-21,R-21,R-21,R-21,R-20,R-20,D-18,D-18,D-18,D-17
+  Minnesota,MN,27000,27,D-10,D-10,R-10,D-10,D-10,D-10,D-10,D-10,D-10,D-10,D-9
+  Mississippi,MS,28000,28,R-7,I-7,R-7,D-7,R-7,R-7,R-7,R-7,R-7,R-7,R-6
+  Missouri,MO,29000,29,D-12,R-12,R-12,D-12,R-12,R-11,R-11,D-11,D-11,R-11,R-11
+  Montana,MT,30000,30,D-4,R-4,R-4,R-4,R-4,R-4,R-4,D-3,R-3,R-3,R-3
+  Nebraska,NE,31000,31,D-5,R-5,R-5,R-5,R-5,R-5,R-5,R-5,R-5,R-5,R-5
+  Nevada,NV,32000,32,D-3,R-3,R-3,R-3,R-3,R-4,R-4,D-4,D-4,R-4,R-5
+  New Hampshire,NH,33000,33,D-4,R-4,R-4,R-4,R-4,R-4,R-4,D-4,D-4,R-4,D-4
+  New Jersey ,NJ,34000,34,D-17,R-17,R-17,R-17,R-17,R-16,R-16,D-15,D-15,D-15,D-15
+  New Mexico ,NM,35000,35,D-4,R-4,R-4,R-4,R-4,R-5,R-5,D-5,D-5,D-5,R-5
+  New York,NY,36000,36,D-43,D-43,R-41,D-41,R-41,R-36,D-36,D-33,D-33,D-33,D-31
+  North Carolina ,NC,37000,37,D-13,I-01,R-13,D-13,R-13,R-13,R-13,R-14,R-14,R-14,R-15
+  North Dakota,ND,38000,38,D-4,R-4,R-3,R-3,R-3,R-3,R-3,R-3,R-3,R-3,R-3
+  Ohio,OH,39000,39,D-26,R-26,R-25,D-25,R-25,R-23,R-23,D-21,D-21,R-21,R-20
+  Oklahoma,OK,40000,40,D-8,R-8,R-8,R-8,R-8,R-8,R-8,R-8,R-8,R-8,R-7
+  Oregon,OR,41000,41,D-6,R-6,R-6,R-6,R-6,R-7,D-7,D-7,D-7,D-7,D-7
+  Pennsylvania,PA,42000,42,D-29,D-29,R-27,D-27,R-27,R-25,R-25,D-23,D-23,D-23,D-21
+  Rhode Island,RI,44000,44,D-4,D-4,R-4,D-4,D-4,R-4,D-4,D-4,D-4,D-4,D-4
+  South Carolina ,SC,45000,45,R-8,R-8,R-8,D-8,R-8,R-8,R-8,R-8,R-8,R-8,R-8
+  South Dakota ,SD,46000,46,D-4,R-4,R-4,R-4,R-4,R-3,R-3,R-3,R-3,R-3,R-3
+  Tennessee,TN,47000,47,D-11,R-11,R-10,D-10,R-10,R-11,R-11,D-11,D-11,R-11,R-11
+  Texas,TX,48000,48,D-25,D-25,R-26,D-26,R-26,R-29,R-29,R-32,R-32,R-32,R-34
+  Utah,UT,49000,49,D-4,R-4,R-4,R-4,R-4,R-5,R-5,R-5,R-5,R-5,R-5
+  Vermont,VT,50000,50,D-3,R-3,R-3,R-3,R-3,R-3,R-3,D-3,D-3,D-3,D-3
+  Virginia,VA,51000,51,D-12,R-12,\2 R-11,R-12,R-12,R-12,R-12,R-13,R-13,R-13,R-13
+  Washington,WA,53000,53,D-9,D-9,R-9,\3 R-8,R-9,R-10,D-10,D-11,D-11,D-11,D-11
+  West Virginia ,WV,54000,54,D-7,D-7,R-6,D-6,D-6,R-6,\4 D-5,D-5,D-5,R-5,R-5
+  Wisconsin,WI,55000,55,D-12,R-12,R-11,D-11,R-11,R-11,D-11,D-11,D-11,D-11,D-10
+  Wyoming,WY,56000,56,D-3,R-3,R-3,R-3,R-3,R-3,R-3,R-3,R-3,R-3,R-3
