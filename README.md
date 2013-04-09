@@ -1,13 +1,13 @@
 # dataquery
 
-A Clojure library designed to ... well, that part is up to you.
+Demo of query-as-data using datomic
 
 ## Usage
 
-FIXME
+Fire up src/core.clj
 
 ## License
 
-Copyright © 2013 FIXME
+Copyright © 2013 Edmund Jackson
 
 Distributed under the Eclipse Public License, the same as Clojure.
